@@ -62,14 +62,6 @@ IAF is built on **security-first principles** at every layer, including:
 
 ---
 
-## 📖 How It Works
-
-1. The **Discord Bot** listens to server events and enforces security and permission rules.
-2. The **Real-Time System** relays every change instantly to the web dashboard.
-3. Admins use the **Web Dashboard** to configure settings, review activity, and manage the store — with changes reflected back on Discord immediately.
-
----
-
 ## 📌 Project Status
 
 > **Completed — Showcase Only**
