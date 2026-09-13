@@ -70,9 +70,9 @@ IAF is designed with **security-first principles** at every layer, including:
 
 ## 📌 Project Status
 
-> **Private Development / Showcase**
+> **Completed / Showcase Only**
 
-This project is currently in private development and is shared here for showcase purposes only. Features and architecture may change as development continues.
+This project has been completed and is shared here for showcase purposes only. 
 
 ---
 
