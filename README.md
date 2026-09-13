@@ -1,6 +1,6 @@
-# IAF — Smart Discord server management system
+# IAF — Smart Discord Server Management System
 
-**Smart Discord server management and protection platform**, built to provide powerful security, precise permissions, and a synchronized web control experience.
+**A smart Discord server management and protection platform**, built to deliver powerful security, precise permissions, and a fully synchronized web control experience.
 
 ---
 
@@ -12,24 +12,26 @@ IAF is an integrated Discord platform designed for server management, proactive 
 
 ## ✨ Features
 
-| | |
+| Feature | Description |
 |---|---|
-| 🛡️ **Proactive Security** | Protect your server with advanced security systems that detect and respond to threats automatically. |
-| 🔐 **Advanced Permissions** | Precise role and permission management, giving fine-grained control over who can do what. |
+| 🛡️ **Proactive Security** | Protects your server with advanced systems that detect and respond to threats automatically. |
+| 🔐 **Advanced Permissions** | Precise role and permission management for fine-grained control over who can do what. |
 | 🤖 **Smart Discord Bot** | Powerful automated management and protection, running around the clock. |
-| 🌐 **Web Dashboard** | Control and monitor your system through a modern, easy-to-use web interface. |
+| 🌐 **Web Dashboard** | Monitor and control your system through a modern, easy-to-use web interface. |
 | 🛒 **Store & Payments** | Integrated store and payment management for server monetization. |
-| 📊 **Real-Time Synchronization** | Keep Discord and the web dashboard synchronized in real time, with no delays or manual refreshes. |
+| 📊 **Real-Time Synchronization** | Keeps Discord and the web dashboard in sync instantly, with no delays or manual refreshing. |
 
 ---
 
 ## 🏗️ System Architecture
 
+```
 Discord Bot
      ↕
 Real-Time System
      ↕
 Web Dashboard
+```
 
 Each layer communicates seamlessly with the others:
 
@@ -41,7 +43,7 @@ Each layer communicates seamlessly with the others:
 
 ## 🔒 Security
 
-IAF is designed with **security-first principles** at every layer, including:
+IAF is built on **security-first principles** at every layer, including:
 
 - Fine-grained permission control across roles and channels
 - Continuous activity monitoring and logging
@@ -56,13 +58,13 @@ IAF is designed with **security-first principles** at every layer, including:
 - **Discord.js** — core bot framework
 - **Express** — backend server and API layer
 - **JWT** — secure authentication and session management
-- **Real-time** — live synchronization engine between Discord and the web dashboard
+- **Real-Time Engine** — live synchronization between Discord and the web dashboard
 
 ---
 
 ## 📖 How It Works
 
-1. The **Discord Bot** listens to server events and enforces security/permission rules.
+1. The **Discord Bot** listens to server events and enforces security and permission rules.
 2. The **Real-Time System** relays every change instantly to the web dashboard.
 3. Admins use the **Web Dashboard** to configure settings, review activity, and manage the store — with changes reflected back on Discord immediately.
 
@@ -70,19 +72,19 @@ IAF is designed with **security-first principles** at every layer, including:
 
 ## 📌 Project Status
 
-> **Completed / Showcase Only**
+> **Completed — Showcase Only**
 
-This project has been completed and is shared here for showcase purposes only. 
+This project has been completed and is shared here for showcase purposes only.
 
 ---
 
 ## 📬 Contact
 
-Feel free to reach out for any inquiries:
+Feel free to reach out with any inquiries:
 
 - **Discord:** iaf0
 - **GitHub:** Reach out via GitHub
 
 ---
 
-Made with ❤️ for safer, smarter Discord communities.
+*Made with ❤️ for safer, smarter Discord communities.*
